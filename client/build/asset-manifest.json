@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5994412e.css",
+    "main.js": "/static/js/main.a54fe730.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/zomboi_idle.png": "/static/media/zomboi_idle.4299224ef447e200fba1.png",
+    "static/media/zomgurl_idle.png": "/static/media/zomgurl_idle.d0ca30894d0e9c7d973c.png",
+    "static/media/dino_idle.png": "/static/media/dino_idle.fce6f70ae4ece2f8ad4b.png",
+    "static/media/robo_idle.png": "/static/media/robo_idle.db23395a164b93867d2a.png",
+    "static/media/jacko_idle.png": "/static/media/jacko_idle.5883f41dc805e2d92911.png",
+    "static/media/fufudoggy_idle.png": "/static/media/fufudoggy_idle.9d1d60ffcada406f9187.png",
+    "static/media/kitkit_idle.png": "/static/media/kitkit_idle.24e8e5c29b04d7f7b142.png",
+    "index.html": "/index.html",
+    "main.5994412e.css.map": "/static/css/main.5994412e.css.map",
+    "main.a54fe730.js.map": "/static/js/main.a54fe730.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5994412e.css",
+    "static/js/main.a54fe730.js"
+  ]
+}

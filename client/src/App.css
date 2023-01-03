@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Press Start 2P', 'Courier New', Courier, monospace;
+}
+
+body {
+  background-color: #EEEEEE;
+}
+
+main {
+  background-color: white;
+}
+
+.myTable th, .myTable td {
+  padding: 0.3em 1em;
+  vertical-align: middle;
+}
+
+.ilb {
+  display: inline-block;
+}
+
+.err {
+  color: red;
+}
+
+.scale50 {
+  transform: scale(0.5);
+}
+
+.flipX {
+  transform: rotateY(180deg);
+}
+
+.DinoIdle {
+  height: 284px;
+  width: 271px;
+  background: url("./img/dino/dino_idle.png") 0px 0px;
+}
+
+.ZomgurlIdle {
+  height: 282px;
+  width: 190px;
+  background: url("./img/zomgurl/zomgurl_idle.png") 0px 0px;
+}
+
+.RoboIdle {
+  height: 288px;
+  width: 168px;
+  background: url("./img/robo/robo_idle.png") 0px 0px;
+}
+
+.JackoIdle {
+  height: 270px;
+  width: 177px;
+  background: url("./img/jacko/jacko_idle.png") 0px 0px;
+}
+
+.KitkitIdle {
+  height: 250px;
+  width: 166px;
+  background: url("./img/kitkit/kitkit_idle.png") 0px 0px;
+}
+
+.FufudoggyIdle {
+  height: 265px;
+  width: 172px;
+  background: url("./img/fufudoggy/fufudoggy_idle.png") 0px 0px;
+}
+
+.ZomboiIdle {
+  height: 300px;
+  width: 195px;
+  background: url("./img/zomboi/zomboi_idle.png") 0px 0px;
+}
